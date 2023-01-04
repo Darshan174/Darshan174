@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Darshan
 - 👀 I’m interested in Dev ops and Software development
-- 🌱 I’m currently learning Dockers, K8s, Java
-- 📫 How to reach me https://twitter.com/THEdort01
+- 🌱 I’m currently learning Dockers, K8s, Java, and Frontend Development.
+- 📫 How to reach me:
+      https://twitter.com/THEdort01 
+      https://www.linkedin.com/in/darshan-n-92a008222/
 
 <!---
 Darshan174/Darshan174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
