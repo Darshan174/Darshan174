@@ -6,6 +6,8 @@
       https://twitter.com/THEdort01      
       Linkedin:
       https://www.linkedin.com/in/darshan-n-92a008222/
+      Gmail:
+      darshan002321@gmail.com
 
 <!---
 Darshan174/Darshan174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
