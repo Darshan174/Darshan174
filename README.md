@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Darshan
-- 👀 I’m interested in Dev ops and Software development
+- 👋 Hi, I’m Darshan!
+- 🤝 I'm interested in contributing with open source projects which brings value to the community.
 - 🌱 I’m currently learning Javascript, Dockers, K8s, Java, and Frontend Development.
 - 📫 How to reach me:   
 
