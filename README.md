@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Darshan
 - 👀 I’m interested in Dev ops and Software development
 - 🌱 I’m currently learning Javascript, Dockers, K8s, Java, and Frontend Development.
-- 📫 How to reach me:   Twitter:
+- 📫 How to reach me:   
+- Twitter:
       https://twitter.com/THEdort01      
       Linkedin:
       https://www.linkedin.com/in/darshan-n-92a008222/
