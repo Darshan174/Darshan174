@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Darshan!
-- [hi](https://www.youtube.com/watch?v=bx2YGUv2nbA)
 - 🤝 I'm interested in contributing with open source projects which brings value to the community.
 - 🌱 I’m currently learning Javascript, Dockers, K8s, Java, and Frontend Development.
 - 📫 How to reach me:   
