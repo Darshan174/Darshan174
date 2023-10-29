@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/thedort01" target="blank"><img src="https://img.shields.io/twitter/follow/thedort01?logo=twitter&style=for-the-badge" alt="thedort01" /></a> </p>
 
-- 🔭 I’m currently working on [Meshery](https://github.com/meshery/meshery.io)
+- 🔭 I’m currently expertizing in front-end development
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Reactjs, zustand, tailwindcss, axios, nodejs, nextjs**
 
-- 🤝 I’m looking for help with [Meshery](https://github.com/meshery/meshery.io)
+- 🤝 I’m looking for help with Reactjs projects.
 
 - 📫 How to reach me **darshan002321@gmail.com**
 
