@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs, zustand, tailwindcss, axios, nodejs, nextjs**
 
-- 🤝 I’m looking for help with Reactjs projects.
+- 🤝 I’m looking for Front-end roles.
 
 - 📫 How to reach me **darshan002321@gmail.com**
 
