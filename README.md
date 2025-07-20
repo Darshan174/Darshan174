@@ -4,7 +4,7 @@
 
 - 🔭 Currently expertizing in Devops tools
 
-- 🌱 Learning **Kubernetes, Iac, Docker, Golang**
+- 🌱 Learning **Kubernetes, Meshery, Docker, Golang**
 
 - 📫 How to reach me **darshan002321@gmail.com**
 
